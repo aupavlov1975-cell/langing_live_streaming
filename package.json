@@ -1,0 +1,16 @@
+{
+  "name": "html_36_verstkasite3",
+  "version": "1.0.0",
+  "description": "landing page",
+  "license": "ISC",
+  "author": "Sandy",
+  "type": "commonjs",
+  "source": "index.js",
+  "scripts": {
+    "sass:watch": "sass --style=expanded --watch styles:dist"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4",
+    "sass": "^1.102.0"
+  }
+}
